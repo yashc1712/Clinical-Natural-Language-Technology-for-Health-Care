@@ -16,7 +16,7 @@ This repository contains the deliverables for the Cotiviti Technology Solutions 
 
 2. **POC Demo Code**
    - `poc.py`
-   - Any additional scripts, if applicable.
+   - Install the dependencies: pip install spacy streamlit; python -m spacy download en_core_web_sm; streamlit run poc.py(or entire path where file is stored)
 
 3. **Presentation**
    - `Clinical_NLP_Presentation.pptx`
